@@ -1,3 +1,2 @@
-# MySite.github.io
 
-MySite
+MyGitHub
